@@ -2,10 +2,25 @@
 #headLine,h2{
     text-decoration: underline;
 }
+.oldBike, .HISTimg{
+    padding: 5px;
+    float:right;
+}
+.searchLine{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 sup{
     color: blue;
 }
-#Etymology{
-    background: rgb(228, 162, 162);
+.Etymology{
+    background: #eeaaaa;
+
 }
+.History{
+    background: rgb(234, 194, 194);
+}
+
+  
 
